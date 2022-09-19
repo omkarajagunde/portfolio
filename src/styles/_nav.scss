@@ -1,0 +1,19 @@
+.nav {
+	font-family: $font1;
+	width: 100vw;
+	height: 150px;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	box-sizing: border-box;
+	padding-left: 50px;
+
+	&__item {
+		margin-left: 20px;
+		font-size: 1.1em;
+		a {
+			color: unset;
+			cursor: pointer;
+		}
+	}
+}
