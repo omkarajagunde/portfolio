@@ -115,7 +115,7 @@ function render(ctx, s) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#f7f4ed">
-${s.meta.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<title>${s.meta.title}</title>
+${s.meta.noindex ? '<meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex">\n' : ''}<title>${s.meta.title}</title>
 <link rel="stylesheet" href="${ASSET_BASE}/styles.css">
 </head>
 <body>
