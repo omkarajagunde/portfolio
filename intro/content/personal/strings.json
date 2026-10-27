@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "A little about Omkar ✳",
+    "noindex": true
+  },
+  "nav": {
+    "links": [
+      {
+        "href": "#story",
+        "label": "The story"
+      },
+      {
+        "href": "#travel",
+        "label": "Wanderings"
+      },
+      {
+        "href": "#photos",
+        "label": "Photo diary"
+      }
+    ],
+    "cta": "Say hello ↗"
+  },
+  "hero": {
+    "eyebrow": "A less-formal introduction",
+    "greeting": "Hey,",
+    "name": "Omkar",
+    "intro": "We might have crossed paths somewhere, and honestly a biodata or a profile doesn't say much about anyone. So I made this page instead. Have a look, it won't take long.",
+    "primaryCta": "Start reading ↓",
+    "secondaryCta": "Or just see the photos ↗",
+    "secondaryHref": "#travel",
+    "photo": "playful.jpg",
+    "photoAlt": "Omkar laughing at a dinner table",
+    "stickerStar": "NOT A<br>BIODATA<br>PDF ✳",
+    "stickerNote": "engineer<br>by day",
+    "scribble": "this is me ↗"
+  },
+  "story": {
+    "kicker": "01 / The story",
+    "title": "A bit<br>about me.",
+    "blurb": "Scroll slowly. Each part has a photo.",
+    "chapters": [
+      {
+        "photo": "think-office.jpg",
+        "alt": "The IBM office in Bengaluru",
+        "kicker": "Chapter 01 — Work",
+        "title": "I build AI tools at IBM.",
+        "body": "I'm a Development Lead in AI Tooling at IBM. Building things was my hobby first, and then <mark>it became my job</mark>. I still enjoy it, which I think is lucky. Mostly I take messy problems and try to make something that actually works."
+      },
+      {
+        "photo": "photography-skills-5.jpg",
+        "alt": "A decorated Ganpati idol",
+        "kicker": "Chapter 02 — Roots",
+        "title": "From Pune, living in Bengaluru.",
+        "body": "I grew up in Maharashtra and moved to Bengaluru for work. I speak Marathi and English, and my Kannada is <mark>still a work in progress</mark>. During festivals I miss home a bit more."
+      },
+      {
+        "photo": "at-the-gym.jpg",
+        "alt": "Omkar at the gym",
+        "kicker": "Chapter 03 — Gym",
+        "title": "Trying to stay fit.",
+        "body": "I go to the gym and try to be regular about it. Some days the workout goes well, some days I just show up. <mark>Showing up is the main thing.</mark>"
+      },
+      {
+        "photo": "young-blood.jpg",
+        "alt": "Omkar with a red sports bike",
+        "kicker": "Chapter 04 — New things",
+        "title": "Still a bit of young blood.",
+        "body": "I like trying new things. New ideas, <mark>new side projects</mark>, sometimes something a little risky. At any point I have too many tabs open, in the browser and in my head."
+      },
+      {
+        "photo": "good-meal.jpg",
+        "alt": "A dinner table with food and a lamp",
+        "kicker": "Chapter 05 — Food &amp; friends",
+        "title": "Good food, good people.",
+        "body": "My idea of a good evening is simple. Nice food, a few good people, and <mark>a conversation that goes on for two hours</mark> without anyone noticing."
+      },
+      {
+        "photo": "different-culture.jpg",
+        "alt": "Omkar in a cowboy hat and a colourful costume",
+        "kicker": "Chapter 06 — Curiosity",
+        "title": "I like seeing how others live.",
+        "body": "I like people who are curious and kind, and who can <mark>laugh at small things</mark>. When I travel I like trying the local stuff, and yes, sometimes that includes wearing it."
+      }
+    ]
+  },
+  "quotes": {
+    "kicker": "Lines I live by",
+    "title": "A few things<br>I believe in.",
+    "blurb": "Picked up from books, life, and one YouTube comment section.",
+    "items": [
+      {
+        "text": "Better to be a <em>dissatisfied human</em> than a satisfied pig.",
+        "by": "John Stuart Mill"
+      },
+      {
+        "text": "Passion is a myth. <em>Run behind your curiosities.</em>",
+        "by": "Someone in a YouTube comment section, lol"
+      },
+      {
+        "text": "Give back <em>more than you take.</em>"
+      }
+    ]
+  },
+  "travel": {
+    "kicker": "02 / When I need a break",
+    "statement": "I like my work. But every <em>three or four months</em> I get burnt out, and then I pack a bag and go somewhere.",
+    "sub": "I'm not a photographer. These are just phone photos from those trips that came out nice.",
+    "scenes": [
+      {
+        "file": "greece-like-scene-but-not-in-greece.jpg",
+        "alt": "Whitewashed buildings above a mountain valley in Ladakh",
+        "kicker": "Ladakh",
+        "title": "Not Greece, I promise.",
+        "caption": "White walls, brown mountains, and the bluest sky I have seen."
+      },
+      {
+        "file": "varkala-black-sand-beach.jpg",
+        "alt": "Varkala beach from the cliff top",
+        "kicker": "Varkala, Kerala",
+        "title": "Cliffs and sea.",
+        "caption": "Went for an hour, stayed till sunset."
+      },
+      {
+        "file": "munroe-island-boating.jpg",
+        "alt": "A canoe on a narrow canal on Munroe Island",
+        "kicker": "Munroe Island, Kerala",
+        "title": "Backwaters by canoe.",
+        "caption": "Narrow canals, coconut trees, and no hurry at all."
+      },
+      {
+        "file": "kerala-vagamon-sunsets.jpg",
+        "alt": "Sunset over the hills of Vagamon",
+        "kicker": "Vagamon, Kerala",
+        "title": "Sunset in the hills.",
+        "caption": "Very quiet place. That was the whole point."
+      },
+      {
+        "file": "photography-skills-varkala-suns-at-the-sea.jpg",
+        "alt": "Sunlit sea from the Varkala cliffs",
+        "kicker": "Back at Varkala",
+        "title": "Varkala, again.",
+        "caption": "Same place, different day. Phone stayed on silent."
+      }
+    ],
+    "collage": {
+      "kicker": "More photos",
+      "title": "A few more<br>from the trips.",
+      "blurb": "Tap any photo to see it bigger.",
+      "photos": [
+        "ladakh-hotel-scenic.jpg",
+        "varkala-summy-cliffs.jpg",
+        "when-varkala-sea-meets-the-shore.jpg",
+        "kerala-church-from-the-lighthouse.jpg",
+        "varkala-sunsets.jpg",
+        {
+          "file": "photography-skills-3.jpg",
+          "caption": "Palm-lined Roads"
+        },
+        {
+          "file": "ladakh-hotel-scenic-2.jpg",
+          "caption": "Ladakh Hotel Courtyard"
+        },
+        {
+          "file": "photography-skills-1.jpg",
+          "caption": "A Slow Walk"
+        },
+        {
+          "file": "photography-skills-8.jpg",
+          "caption": "Pink Skies"
+        },
+        {
+          "file": "photography-skills-2.jpg",
+          "caption": "Green, Everywhere"
+        },
+        {
+          "file": "photography-skills-6.jpg",
+          "caption": "Festival Season"
+        }
+      ]
+    }
+  },
+  "photos": {
+    "kicker": "03 / Some photos of me",
+    "title": "And yes,<br>me again.",
+    "blurb": "In case the earlier ones weren't enough. Tap to see bigger.",
+    "items": [
+      {
+        "file": "classic.jpg",
+        "alt": "Omkar in a navy sweater at a café",
+        "caption": "At a café",
+        "sub": "01 / sweater weather"
+      },
+      {
+        "file": "mountains.jpg",
+        "alt": "Omkar on a mountain road",
+        "caption": "On a hill road",
+        "sub": "02 / the hills"
+      },
+      {
+        "file": "aesthetic.jpg",
+        "alt": "Omkar posing by a tall white door",
+        "caption": "Trying to pose",
+        "sub": "03 / the posed one"
+      },
+      {
+        "file": "everyday-2.jpg",
+        "alt": "Omkar standing by a brick wall",
+        "caption": "Outside BLR Brewing Co.",
+        "sub": "04 / weekend"
+      },
+      {
+        "file": "closeup.jpg",
+        "alt": "Omkar smiling in tinted glasses",
+        "caption": "Selfie",
+        "sub": "05 / the selfie"
+      },
+      {
+        "file": "everyday.jpg",
+        "alt": "Omkar smiling at a wooden table",
+        "caption": "Mid-conversation",
+        "sub": "06 / caught smiling"
+      }
+    ],
+    "note": "No professional photographer was involved. You can tell."
+  },
+  "hello": {
+    "kicker": "04 / If you'd like to talk",
+    "title": "If you've read till here, <em>let's talk</em>.",
+    "paragraphs": [
+      "I'm looking for a partner who is open-minded, doesn't judge people, and treats everyone with kindness. Someone ambitious, who still has dreams, even if we can't fulfil all of them. We don't need to have everything in common. If we're both curious about each other, that's a good start.",
+      "If you want to talk, just send a hello. No need for a perfect first message."
+    ],
+    "cta": "Send a hello on email ↗",
+    "ctaHref": "mailto:ajagundeomkar@gmail.com?subject=Hello%2C%20Omkar"
+  },
+  "footer": {
+    "name": "Omkar Ajagunde",
+    "tagline": "Made by me, not by a biodata template ✳",
+    "note": "Just an introduction. No pressure."
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "title": "Omkar Ajagunde ✳ Development Lead, AI Tooling",
+    "noindex": false
+  },
+  "nav": {
+    "links": [
+      {
+        "href": "#story",
+        "label": "The story"
+      },
+      {
+        "href": "#how",
+        "label": "How I work"
+      },
+      {
+        "href": "#projects",
+        "label": "Projects"
+      }
+    ],
+    "cta": "Get in touch ↗"
+  },
+  "hero": {
+    "eyebrow": "Development Lead · AI Tooling",
+    "greeting": "Hi,",
+    "name": "Omkar",
+    "intro": "I lead development of <strong>AI tooling at IBM</strong>, for seller and developer productivity in the CIO department. Below is what I do and how I work.",
+    "primaryCta": "Read more ↓",
+    "secondaryCta": "Or get in touch ↗",
+    "photo": "classic.jpg",
+    "photoAlt": "Omkar in a navy sweater at a café",
+    "stickerStar": "USE<br>CASE<br>FIRST ✳",
+    "stickerNote": "engineer<br>first",
+    "scribble": "based in Bengaluru ↗"
+  },
+  "story": {
+    "kicker": "01 / The story",
+    "title": "What I<br>do.",
+    "blurb": "Five short parts. Scroll slowly.",
+    "chapters": [
+      {
+        "photo": "closeup.jpg",
+        "alt": "Omkar smiling in tinted glasses",
+        "kicker": "Chapter 01 — Role",
+        "title": "Development Lead, AI Tooling.",
+        "body": "At IBM I lead development of AI tooling for seller and developer productivity in the CIO department. Other teams build chatbots and agents. My team takes care of the common pieces so they can <mark>focus on their business logic and their agents' tools</mark>. We handle RAG, user experience, feedback collection and <mark>measuring whether a chatbot is actually giving business value</mark>."
+      },
+      {
+        "photo": "think-office.jpg",
+        "alt": "The IBM office in Bengaluru",
+        "kicker": "Chapter 02 — Where",
+        "title": "IBM, Bengaluru.",
+        "body": "I'm from Pune and now work out of IBM's Bengaluru office. <mark>Building things was a hobby first</mark>, and now it's my job."
+      },
+      {
+        "photo": "aesthetic.jpg",
+        "alt": "Omkar posing by a tall white door",
+        "kicker": "Chapter 03 — Background",
+        "title": "B.E., Information Technology.",
+        "body": "I did my B.E. in Information Technology. Most of what I know though, I learnt by <mark>building and shipping real software</mark>, and breaking a few things along the way. I speak Marathi and English."
+      },
+      {
+        "photo": "everyday.jpg",
+        "alt": "Omkar smiling at a wooden table",
+        "kicker": "Chapter 04 — Side projects",
+        "title": "Side projects, from scratch.",
+        "body": "Outside office work I keep building side projects. Some became real products, some didn't. Either way <mark>I learn something every time</mark>."
+      },
+      {
+        "photo": "mountains.jpg",
+        "alt": "Omkar on a mountain road",
+        "kicker": "Chapter 05 — Breaks",
+        "title": "Breaks are part of it.",
+        "body": "I work hard, and every few months I take a proper break and travel. <mark>I come back with a clearer head</mark>, and the work is better for it."
+      }
+    ]
+  },
+  "principles": {
+    "kicker": "02 / How I work",
+    "title": "The way<br>I work.",
+    "blurb": "Five things I'm good at. Where they overlap is how I decide what to build.",
+    "core": "USE CASE|FIRST",
+    "items": [
+      {
+        "label": "AI|efficiency",
+        "title": "I use AI tools a lot.",
+        "body": "I use AI tools every day for my own work. By now I know <mark>where they save hours and where they waste time</mark>."
+      },
+      {
+        "label": "On top of|new tech",
+        "title": "I keep up with new tech.",
+        "body": "I pick up new tools and frameworks early. <mark>I try them myself first</mark>, and suggest them to the team only if they're actually useful."
+      },
+      {
+        "label": "Multi-|tasking",
+        "title": "I can handle many things at once.",
+        "body": "Most days I'm running <mark>several streams of work in parallel</mark>, and I make sure none of them gets stuck."
+      },
+      {
+        "label": "Asks →|implementation",
+        "title": "Requirements to working code.",
+        "body": "Stakeholders tell me what they need. I think it through, ask the questions nobody asked, and <mark>turn it into something we can build and ship</mark>."
+      },
+      {
+        "label": "Business|sense",
+        "title": "I understand the business side.",
+        "body": "So I look at problems <mark>use case first, customer first, and with cost in mind</mark>. Using new tech just because it's new doesn't make sense to me."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "03 / Projects",
+    "title": "Things I've<br>built.",
+    "blurb": "Products, side projects, client work and college projects, newest first. Tap a preview to open it.",
+    "items": [
+      {
+        "title": "Bato.club",
+        "kind": "Side project",
+        "when": "Jul 2026 – now",
+        "image": "bato-club.jpg",
+        "link": "https://bato.club",
+        "body": "A Splitwise-style app for <mark>tracking shared expenses, splitting bills and settling up</mark>, without sending awkward reminders to friends. It's live on the web, App Store and Play Store.",
+        "tech": [
+          "React",
+          "Vite",
+          "PWA",
+          "NestJS",
+          "MongoDB",
+          "Capacitor",
+          "iOS",
+          "Android",
+          "Docker"
+        ],
+        "stats": [
+          {
+            "value": "₹5 lakh",
+            "label": "in expenses tracked since launch in July 2026"
+          }
+        ]
+      },
+      {
+        "title": "Lighthouse",
+        "kind": "Product",
+        "when": "Nov 2025 – now",
+        "body": "One platform where <mark>architects, designers and brands connect, work together and get leads</mark>. It has an RFQ marketplace where buyers ask for quotes and dealers respond. I built most of the backend, along with AI agents that keep the product catalogue updated.",
+        "tech": [
+          "NestJS",
+          "TypeScript",
+          "MongoDB",
+          "Python",
+          "AI agents",
+          "Docker",
+          "Railway"
+        ],
+        "link": "https://lighthouseinfra.com/",
+        "image": "lighthouse.jpg"
+      },
+      {
+        "title": "BeeGuide",
+        "kind": "Side project",
+        "when": "Jun – Jul 2022",
+        "video": "Y1SvkALnIHM",
+        "body": "A tool to <mark>create product tours for web apps</mark>. It has a Chrome extension to record tours, a site with docs and tour management, and a script to add the tours to your own website.",
+        "tech": [
+          "React",
+          "Next.js",
+          "Node.js",
+          "MongoDB",
+          "Docker",
+          "Carbon Design",
+          "IBM Kubernetes Service"
+        ]
+      },
+      {
+        "title": "Blablah.app",
+        "kind": "Side project",
+        "when": "since Nov 2021",
+        "video": "OZ1Sk_tqKFs",
+        "body": "A <mark>realtime chat app</mark> with server-side rendering, built on sockets with Redis on the backend.",
+        "tech": [
+          "React",
+          "Next.js",
+          "Socket.io",
+          "Redis",
+          "Redux",
+          "Node.js",
+          "MongoDB",
+          "Vercel"
+        ],
+        "stats": [
+          {
+            "value": "35k",
+            "label": "unique visitors"
+          }
+        ]
+      },
+      {
+        "title": "360nearme",
+        "kind": "Hobby project",
+        "when": "Apr – May 2021",
+        "video": "zuclDjKXDQc",
+        "body": "See places near you as <mark>360° panoramas</mark>, right in the browser, using Pannellum.",
+        "tech": [
+          "React",
+          "Next.js",
+          "Redux",
+          "Pannellum",
+          "Node.js",
+          "MongoDB",
+          "Firebase"
+        ]
+      },
+      {
+        "title": "Core2web professional network",
+        "kind": "Biencaps Systems",
+        "when": "Feb – Jun 2021",
+        "video": "NokDmGnS7I0",
+        "body": "A <mark>professional network for the Core2web community</mark>, made as a responsive React app.",
+        "tech": [
+          "React",
+          "Redux",
+          "Firebase",
+          "JWT",
+          "Figma"
+        ]
+      },
+      {
+        "title": "WashMartIndia.com",
+        "kind": "Biencaps Systems",
+        "when": "Nov 2020 – Jan 2021",
+        "video": "W05xEu_Nu9E",
+        "body": "The <mark>customer-facing website</mark> for WashMart India.",
+        "tech": [
+          "React",
+          "Redux",
+          "Firebase",
+          "JWT"
+        ]
+      },
+      {
+        "title": "biencaps.com",
+        "kind": "Biencaps Systems",
+        "when": "Oct – Nov 2020",
+        "video": "d_pdpTbTiA0",
+        "body": "The <mark>company website</mark> for Biencaps Systems.",
+        "tech": [
+          "React",
+          "Redux",
+          "Firebase"
+        ]
+      },
+      {
+        "title": "Dummy data filler",
+        "kind": "Hobby project",
+        "when": "Aug – Sep 2020",
+        "video": "6VBke4m8rRY",
+        "body": "A Chrome extension that <mark>fills forms with fake but realistic data</mark>. Saves a lot of time while testing.",
+        "tech": [
+          "React",
+          "Faker.js",
+          "Chrome extension"
+        ]
+      },
+      {
+        "title": "Sorting visualiser",
+        "kind": "Hobby project",
+        "when": "May – Jun 2020",
+        "video": "ydsXlvOISE8",
+        "body": "Shows <mark>sorting algorithms running step by step</mark>, in plain JavaScript.",
+        "tech": [
+          "Vanilla JS",
+          "p5.js",
+          "HTML/CSS"
+        ]
+      },
+      {
+        "title": "Data extraction with YOLOv3",
+        "kind": "Final year project",
+        "when": "2021",
+        "video": "00eCsdMlEIY",
+        "body": "My final year project. <mark>Pulling structured data out of images using a neural network</mark>, with a Flask API and a React front end.",
+        "tech": [
+          "Python",
+          "YOLOv3",
+          "Darknet",
+          "OpenCV",
+          "Flask",
+          "React"
+        ]
+      },
+      {
+        "title": "Attendance by face recognition",
+        "kind": "College project",
+        "when": "Nov 2019 – Feb 2020",
+        "video": "tMkzilXs240",
+        "body": "A desktop app that <mark>marks attendance by recognising faces</mark>.",
+        "tech": [
+          "Java 8",
+          "Python",
+          "OpenCV",
+          "MongoDB"
+        ]
+      },
+      {
+        "title": "Win32 graphics demo",
+        "kind": "College project",
+        "when": "Jul – Aug 2020",
+        "video": "DGcWYKJQveU",
+        "body": "A <mark>graphics demo using the raw Win32 GDI APIs</mark>, written in C and C++.",
+        "tech": [
+          "C",
+          "C++",
+          "Win32 SDK",
+          "GDI"
+        ]
+      },
+      {
+        "title": "TeslaBox@core2web",
+        "kind": "College project",
+        "when": "Jul – Aug 2020",
+        "video": "xza11jLh-lY",
+        "body": "An <mark>IoT box built on the ESP8266</mark> that reads IR and gas sensors over I2C and SPI.",
+        "tech": [
+          "NodeMCU",
+          "ESP8266",
+          "C",
+          "I2C",
+          "SPI",
+          "Arduino"
+        ]
+      }
+    ]
+  },
+  "hello": {
+    "kicker": "04 / Let's talk",
+    "title": "Working on something <em>interesting</em>? Tell me about it.",
+    "paragraphs": [
+      "AI tooling, developer productivity, or some problem that's still not clear, I'm happy to talk about it.",
+      "Email is the easiest way to reach me."
+    ],
+    "cta": "Email me ↗",
+    "ctaHref": "mailto:ajagundeomkar@gmail.com?subject=Hi%20Omkar"
+  },
+  "footer": {
+    "name": "Omkar Ajagunde",
+    "tagline": "Development Lead, AI Tooling ✳",
+    "note": "Made by me, from scratch."
+  }
+}
